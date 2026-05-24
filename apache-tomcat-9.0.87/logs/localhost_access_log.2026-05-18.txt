@@ -1,0 +1,15 @@
+127.0.0.1 - - [18/May/2026:07:32:17 +0530] "GET /FashionHub/admin HTTP/1.1" 302 -
+127.0.0.1 - - [18/May/2026:07:32:18 +0530] "GET /FashionHub/login.jsp HTTP/1.1" 200 4103
+127.0.0.1 - - [18/May/2026:07:32:45 +0530] "POST /FashionHub/auth HTTP/1.1" 200 4179
+127.0.0.1 - - [18/May/2026:07:32:51 +0530] "GET /FashionHub/register.jsp HTTP/1.1" 200 4380
+127.0.0.1 - - [18/May/2026:07:33:39 +0530] "POST /FashionHub/auth HTTP/1.1" 302 -
+127.0.0.1 - - [18/May/2026:07:33:39 +0530] "GET /FashionHub/login.jsp?success=Registration%20successful.%20Please%20login. HTTP/1.1" 200 4194
+127.0.0.1 - - [18/May/2026:07:33:55 +0530] "POST /FashionHub/auth HTTP/1.1" 302 -
+127.0.0.1 - - [18/May/2026:07:33:55 +0530] "GET /FashionHub/products HTTP/1.1" 200 11737
+127.0.0.1 - - [18/May/2026:07:34:07 +0530] "GET /FashionHub/notifications.jsp HTTP/1.1" 200 4625
+127.0.0.1 - - [18/May/2026:07:41:19 +0530] "GET /FashionHub/admin HTTP/1.1" 302 -
+127.0.0.1 - - [18/May/2026:07:41:19 +0530] "GET /FashionHub/login.jsp HTTP/1.1" 200 4103
+127.0.0.1 - - [18/May/2026:07:41:38 +0530] "POST /FashionHub/auth HTTP/1.1" 200 4179
+127.0.0.1 - - [18/May/2026:07:48:50 +0530] "POST /FashionHub/auth HTTP/1.1" 200 4179
+127.0.0.1 - - [18/May/2026:08:56:12 +0530] "POST /FashionHub/auth HTTP/1.1" 200 4179
+127.0.0.1 - - [18/May/2026:08:56:34 +0530] "POST /FashionHub/auth HTTP/1.1" 200 4179

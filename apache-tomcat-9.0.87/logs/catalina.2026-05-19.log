@@ -1,0 +1,143 @@
+19-May-2026 07:42:42.240 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.87
+19-May-2026 07:42:42.256 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 11 2024 10:12:34 UTC
+19-May-2026 07:42:42.262 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.87.0
+19-May-2026 07:42:42.266 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+19-May-2026 07:42:42.268 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+19-May-2026 07:42:42.271 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-May-2026 07:42:42.275 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Eclipse Adoptium\jdk-17.0.14.7-hotspot
+19-May-2026 07:42:42.280 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.14+7
+19-May-2026 07:42:42.282 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+19-May-2026 07:42:42.285 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\FashionHub\apache-tomcat-9.0.87
+19-May-2026 07:42:42.291 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\FashionHub\apache-tomcat-9.0.87
+19-May-2026 07:42:42.320 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+19-May-2026 07:42:42.327 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+19-May-2026 07:42:42.330 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+19-May-2026 07:42:42.332 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+19-May-2026 07:42:42.333 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-May-2026 07:42:42.335 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\FashionHub\apache-tomcat-9.0.87\conf\logging.properties
+19-May-2026 07:42:42.338 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-May-2026 07:42:42.341 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-May-2026 07:42:42.344 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-May-2026 07:42:42.345 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-May-2026 07:42:42.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\FashionHub\apache-tomcat-9.0.87
+19-May-2026 07:42:42.349 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\FashionHub\apache-tomcat-9.0.87
+19-May-2026 07:42:42.350 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\FashionHub\apache-tomcat-9.0.87\temp
+19-May-2026 07:42:42.379 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Eclipse Adoptium\jdk-17.0.14.7-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.14.7-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\shris\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\shris\AppData\Local\Programs\Python\Python310\;C:\Users\shris\AppData\Local\Microsoft\WindowsApps;C:\Users\shris\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shris\AppData\Roaming\npm;C:\Users\shris\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\shris\AppData\Local\Programs\IntelliJ IDEA 2026.1\bin;C:\Users\shris\AppData\Local\Programs\Antigravity\bin;.]
+19-May-2026 07:42:43.207 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-May-2026 07:42:43.318 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [1568] milliseconds
+19-May-2026 07:42:43.452 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-May-2026 07:42:43.452 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+19-May-2026 07:42:43.597 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\FashionHub\apache-tomcat-9.0.87\webapps\FashionHub.war]
+19-May-2026 07:42:43.645 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\FashionHub] was found with a last modified time that did not match the associated WAR. It will be deleted.
+19-May-2026 07:42:46.323 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-May-2026 07:42:46.546 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\FashionHub\apache-tomcat-9.0.87\webapps\FashionHub.war] has finished in [2,948] ms
+19-May-2026 07:42:46.549 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\docs]
+19-May-2026 07:42:46.629 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\docs] has finished in [81] ms
+19-May-2026 07:42:46.630 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\examples]
+19-May-2026 07:42:48.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\examples] has finished in [1,618] ms
+19-May-2026 07:42:48.249 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\host-manager]
+19-May-2026 07:42:48.338 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\host-manager] has finished in [88] ms
+19-May-2026 07:42:48.338 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\manager]
+19-May-2026 07:42:48.402 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\manager] has finished in [63] ms
+19-May-2026 07:42:48.404 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\ROOT]
+19-May-2026 07:42:48.456 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\ROOT] has finished in [51] ms
+19-May-2026 07:42:48.465 INFO [main] org.apache.coyote.AbstractProtocol.start Starting ProtocolHandler ["http-nio-8080"]
+19-May-2026 07:42:48.550 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [5229] milliseconds
+19-May-2026 07:43:33.834 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version name:   Apache Tomcat/9.0.87
+19-May-2026 07:43:33.838 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server built:          Mar 11 2024 10:12:34 UTC
+19-May-2026 07:43:33.839 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Server version number: 9.0.87.0
+19-May-2026 07:43:33.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 11
+19-May-2026 07:43:33.840 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log OS Version:            10.0
+19-May-2026 07:43:33.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Architecture:          amd64
+19-May-2026 07:43:33.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Java Home:             C:\Program Files\Eclipse Adoptium\jdk-17.0.14.7-hotspot
+19-May-2026 07:43:33.841 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Version:           17.0.14+7
+19-May-2026 07:43:33.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log JVM Vendor:            Eclipse Adoptium
+19-May-2026 07:43:33.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\FashionHub\apache-tomcat-9.0.87
+19-May-2026 07:43:33.842 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\FashionHub\apache-tomcat-9.0.87
+19-May-2026 07:43:33.856 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.lang=ALL-UNNAMED
+19-May-2026 07:43:33.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.io=ALL-UNNAMED
+19-May-2026 07:43:33.857 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util=ALL-UNNAMED
+19-May-2026 07:43:33.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.base/java.util.concurrent=ALL-UNNAMED
+19-May-2026 07:43:33.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: --add-opens=java.rmi/sun.rmi.transport=ALL-UNNAMED
+19-May-2026 07:43:33.858 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\FashionHub\apache-tomcat-9.0.87\conf\logging.properties
+19-May-2026 07:43:33.859 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+19-May-2026 07:43:33.859 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+19-May-2026 07:43:33.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+19-May-2026 07:43:33.861 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+19-May-2026 07:43:33.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\FashionHub\apache-tomcat-9.0.87
+19-May-2026 07:43:33.862 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\FashionHub\apache-tomcat-9.0.87
+19-May-2026 07:43:33.863 INFO [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\FashionHub\apache-tomcat-9.0.87\temp
+19-May-2026 07:43:33.872 INFO [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent The Apache Tomcat Native library which allows using OpenSSL was not found on the java.library.path: [C:\Program Files\Eclipse Adoptium\jdk-17.0.14.7-hotspot\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Eclipse Adoptium\jdk-21.0.6.7-hotspot\bin;C:\Program Files\Eclipse Adoptium\jdk-17.0.14.7-hotspot\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Git\cmd;C:\Program Files\nodejs;C:\Program Files\MySQL\MySQL Shell 8.0\bin\;C:\Users\shris\AppData\Local\Programs\Python\Python310\Scripts\;C:\Users\shris\AppData\Local\Programs\Python\Python310\;C:\Users\shris\AppData\Local\Microsoft\WindowsApps;C:\Users\shris\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\shris\AppData\Roaming\npm;C:\Users\shris\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\shris\AppData\Local\Programs\IntelliJ IDEA 2026.1\bin;C:\Users\shris\AppData\Local\Programs\Antigravity\bin;.]
+19-May-2026 07:43:34.255 INFO [main] org.apache.coyote.AbstractProtocol.init Initializing ProtocolHandler ["http-nio-8080"]
+19-May-2026 07:43:34.286 SEVERE [main] org.apache.catalina.util.LifecycleBase.handleSubClassException Failed to initialize component [Connector["http-nio-8080"]]
+	org.apache.catalina.LifecycleException: Protocol handler initialization failed
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1011)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardService.initInternal(StandardService.java:554)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.core.StandardServer.initInternal(StandardServer.java:1046)
+		at org.apache.catalina.util.LifecycleBase.init(LifecycleBase.java:127)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:686)
+		at org.apache.catalina.startup.Catalina.load(Catalina.java:709)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+		at org.apache.catalina.startup.Bootstrap.load(Bootstrap.java:302)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:472)
+	Caused by: java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.netBind(ServerSocketChannelImpl.java:337)
+		at java.base/sun.nio.ch.ServerSocketChannelImpl.bind(ServerSocketChannelImpl.java:294)
+		at org.apache.tomcat.util.net.NioEndpoint.initServerSocket(NioEndpoint.java:268)
+		at org.apache.tomcat.util.net.NioEndpoint.bind(NioEndpoint.java:223)
+		at org.apache.tomcat.util.net.AbstractEndpoint.bindWithCleanup(AbstractEndpoint.java:1334)
+		at org.apache.tomcat.util.net.AbstractEndpoint.init(AbstractEndpoint.java:1347)
+		at org.apache.coyote.AbstractProtocol.init(AbstractProtocol.java:654)
+		at org.apache.coyote.http11.AbstractHttp11Protocol.init(AbstractHttp11Protocol.java:75)
+		at org.apache.catalina.connector.Connector.initInternal(Connector.java:1009)
+		... 13 more
+19-May-2026 07:43:34.288 INFO [main] org.apache.catalina.startup.Catalina.load Server initialization in [686] milliseconds
+19-May-2026 07:43:34.380 INFO [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+19-May-2026 07:43:34.381 INFO [main] org.apache.catalina.core.StandardEngine.startInternal Starting Servlet engine: [Apache Tomcat/9.0.87]
+19-May-2026 07:43:34.436 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\FashionHub\apache-tomcat-9.0.87\webapps\FashionHub.war]
+19-May-2026 07:43:34.467 INFO [main] org.apache.catalina.startup.ExpandWar.expand An expanded directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\FashionHub] was found with a last modified time that did not match the associated WAR. It will be deleted.
+19-May-2026 07:43:36.361 INFO [main] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-May-2026 07:43:36.601 INFO [main] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\FashionHub\apache-tomcat-9.0.87\webapps\FashionHub.war] has finished in [2,164] ms
+19-May-2026 07:43:36.602 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\docs]
+19-May-2026 07:43:36.698 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\docs] has finished in [96] ms
+19-May-2026 07:43:36.700 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\examples]
+19-May-2026 07:43:37.494 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\examples] has finished in [794] ms
+19-May-2026 07:43:37.495 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\host-manager]
+19-May-2026 07:43:37.548 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\host-manager] has finished in [54] ms
+19-May-2026 07:43:37.549 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\manager]
+19-May-2026 07:43:37.595 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\manager] has finished in [47] ms
+19-May-2026 07:43:37.596 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deploying web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\ROOT]
+19-May-2026 07:43:37.638 INFO [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\FashionHub\apache-tomcat-9.0.87\webapps\ROOT] has finished in [42] ms
+19-May-2026 07:43:37.648 INFO [main] org.apache.catalina.startup.Catalina.start Server startup in [3358] milliseconds
+19-May-2026 07:43:37.658 SEVERE [main] org.apache.catalina.core.StandardServer.await Failed to create server shutdown socket on address [localhost] and port [8005] (base port [8005] and offset [0])
+	java.net.BindException: Address already in use: bind
+		at java.base/sun.nio.ch.Net.bind0(Native Method)
+		at java.base/sun.nio.ch.Net.bind(Net.java:555)
+		at java.base/sun.nio.ch.Net.bind(Net.java:544)
+		at java.base/sun.nio.ch.NioSocketImpl.bind(NioSocketImpl.java:648)
+		at java.base/java.net.ServerSocket.bind(ServerSocket.java:388)
+		at java.base/java.net.ServerSocket.<init>(ServerSocket.java:274)
+		at org.apache.catalina.core.StandardServer.await(StandardServer.java:581)
+		at org.apache.catalina.startup.Catalina.await(Catalina.java:825)
+		at org.apache.catalina.startup.Catalina.start(Catalina.java:773)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+		at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+		at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+		at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+		at org.apache.catalina.startup.Bootstrap.start(Bootstrap.java:345)
+		at org.apache.catalina.startup.Bootstrap.main(Bootstrap.java:473)
+19-May-2026 07:43:37.660 INFO [main] org.apache.coyote.AbstractProtocol.pause Pausing ProtocolHandler ["http-nio-8080"]
+19-May-2026 07:43:37.660 INFO [main] org.apache.catalina.core.StandardService.stopInternal Stopping service [Catalina]
+19-May-2026 07:43:37.697 INFO [main] org.apache.coyote.AbstractProtocol.stop Stopping ProtocolHandler ["http-nio-8080"]
+19-May-2026 07:43:37.701 INFO [main] org.apache.coyote.AbstractProtocol.destroy Destroying ProtocolHandler ["http-nio-8080"]
+19-May-2026 07:43:38.538 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.undeploy Undeploying context [/FashionHub]
+19-May-2026 07:43:38.693 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\FashionHub\apache-tomcat-9.0.87\webapps\FashionHub.war]
+19-May-2026 07:43:40.889 INFO [Catalina-utility-2] org.apache.jasper.servlet.TldScanner.scanJars At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+19-May-2026 07:43:40.937 INFO [Catalina-utility-2] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\FashionHub\apache-tomcat-9.0.87\webapps\FashionHub.war] has finished in [2,244] ms

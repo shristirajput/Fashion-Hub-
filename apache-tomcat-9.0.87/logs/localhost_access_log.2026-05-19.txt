@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:44:00 +0530] "GET /FashionHub/ HTTP/1.1" 200 4864
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:44:00 +0530] "GET /FashionHub/css/style.css HTTP/1.1" 200 9501
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:44:01 +0530] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:44:06 +0530] "GET /FashionHub/login.jsp HTTP/1.1" 200 4103
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:44:19 +0530] "POST /FashionHub/auth HTTP/1.1" 200 4179
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:44:26 +0530] "POST /FashionHub/auth HTTP/1.1" 200 4179
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:44:30 +0530] "GET /FashionHub/register.jsp HTTP/1.1" 200 4380
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:44:58 +0530] "POST /FashionHub/auth HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:44:58 +0530] "GET /FashionHub/login.jsp?success=Registration%20successful.%20Please%20login. HTTP/1.1" 200 4194
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:45:05 +0530] "POST /FashionHub/auth HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [19/May/2026:07:45:06 +0530] "GET /FashionHub/products HTTP/1.1" 200 11737
